@@ -87,5 +87,17 @@
   <ItemGroup>
     <None Include="Resources\Logo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiply-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-горизонтальная-линия-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subtract_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_32px.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
